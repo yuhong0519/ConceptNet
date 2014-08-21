@@ -1,0 +1,71 @@
+vegetable
+food
+peach
+apple
+plant
+melon
+raspberry
+strawberry
+plum
+fruit
+lime
+pear
+kiwi
+pineapple
+banana
+tomato
+lemon
+flower
+onoins
+orange
+mango
+tangerine
+watermelon
+raisin
+grapefruit
+blueberry
+prune
+lychee
+dessert
+berry
+animal
+bird
+prickley
+citrus
+colour
+bi
+color
+yelloow
+cantaloupe
+eukaryote
+broadcaster
+sower
+specie
+grape /r/HasProperty good: 4.232355342758365E-4; (food)
+grape /r/UsedFor eat: 2.4683016765150674E-4; (food)
+grape /r/HasProperty juicy: 1.6303398590878748E-4; (peach)
+grape /r/AtLocation vegetable_garden: 2.462030068932242E-5; (vegetable)
+grape /r/AtLocation table: 1.8786037283869554E-5; (food)
+grape /r/AtLocation oven: 1.776689299646762E-5; (food)
+grape /r/HasProperty one_kind_of_plant: 1.680597043978116E-5; (vegetable)
+grape /r/AtLocation supermarket: 1.589446077221813E-5; (vegetable)
+grape /r/AtLocation supermarket: 1.589446077221813E-5; (food)
+grape /r/UsedFor nourishment: 1.4439357449344414E-5; (food)
+grape /r/AtLocation cupboard: 1.4439357449344414E-5; (food)
+grape /r/AtLocation resturant: 1.4439357449344414E-5; (food)
+grape /r/AtLocation pantry: 1.3778649074457106E-5; (food)
+grape /r/AtLocation restaurant: 1.3778649074457106E-5; (food)
+pit /r/PartOf grape: 1.3108844803305558E-5; (peach)
+grape /r/HasA pit: 1.3108844803305558E-5; (peach)
+grape /r/AtLocation at_grocery_store: 1.2477305019121903E-5; (vegetable)
+grape /r/AtLocation in_fridge: 1.2202673366853309E-5; (food)
+grape /r/HasProperty can: 1.0732505493534861E-5; (peach)
+grape /r/AtLocation at_dinner: 1.058347996909257E-5; (food)
+grape /r/AtLocation jar: 1.0412718759811685E-5; (food)
+grape /r/AtLocation refrigerator: 9.182546835778192E-6; (food)
+grape /r/AtLocation in_pantry: 8.10515798134001E-6; (food)
+part_of_plant /r/PartOf grape: 7.3922720710970585E-6; (peach)
+endocarp /r/PartOf grape: 7.3922720710970585E-6; (peach)
+grape /r/HasProperty fuzzy: 5.858237011243088E-6; (peach)
+grape /r/HasProperty eat_raw: 5.858237011243088E-6; (peach)
+grape /r/HasProperty eat_cook: 5.858237011243088E-6; (peach)

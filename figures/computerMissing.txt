@@ -1,0 +1,124 @@
+roboter
+calculator
+car
+fan
+machine
+worker
+van
+shoe
+clock
+typewriter
+slave
+bus
+compressor
+kamera
+robot
+vehicle
+bicycle
+dishwasher
+artifact
+plane
+watch
+pump
+rocket
+helicopter
+refrigerator
+automaton
+television
+motorcycle
+hourglass
+forklift
+glider
+truck
+bidet
+bike
+appliance
+tractor
+spaceship
+entertainment
+boat
+imac
+sleigh
+cyborg
+device
+volvo
+automation
+unicycle
+bmw
+oldsmobile
+toyota
+mac
+cart
+scooter
+missile
+target
+sailboat
+canoe
+computer /r/AtLocation city: 8.446984585491206E-4; (car)
+computer /r/UsedFor transportation: 4.387576709580764E-4; (car)
+computer /r/CapableOf go_fast: 1.720950572451744E-5; (car)
+computer /r/AtLocation park_lot: 1.612938950576281E-5; (car)
+tire /r/PartOf computer: 1.4962054861916176E-5; (car)
+computer /r/AtLocation car_show: 1.4500709876400313E-5; (car)
+computer /r/HasA headlight: 1.3108197801868875E-5; (car)
+computer /r/HasA radio: 1.2415524392080064E-5; (car)
+computer /r/AtLocation in_street: 1.2415524392080064E-5; (car)
+computer /r/AtLocation road: 1.2415524392080064E-5; (car)
+computer /r/CapableOf slow_down: 1.1955641145935505E-5; (car)
+computer /r/CapableOf roll_over: 1.1606906447504755E-5; (car)
+computer /r/HasA window: 1.1606906447504755E-5; (car)
+radiator /r/PartOf computer: 1.1145561461988895E-5; (car)
+computer /r/CapableOf cost_lot_of_money: 1.1145561461988895E-5; (car)
+computer /r/HasA trunk: 1.1145561461988895E-5; (car)
+computer /r/AtLocation race_track: 1.0635568837553115E-5; (car)
+computer /r/CapableOf kill_person: 1.0065445243234256E-5; (car)
+computer /r/AtLocation on_road: 9.419092676939965E-6; (car)
+computer /r/HasA seat: 9.046514491261592E-6; (car)
+computer /r/UsedFor build: 8.94779126583844E-6; (roboter)
+computer /r/AtLocation freeway: 8.703190032242283E-6; (car)
+computer /r/AtLocation town: 8.641220397005758E-6; (car)
+computer /r/CapableOf crash: 8.111357852620777E-6; (car)
+computer /r/AtLocation on_street: 7.516632224152034E-6; (car)
+computer /r/AtLocation street: 7.0632683913300125E-6; (car)
+computer /r/HasProperty heavy: 6.913024724461279E-6; (car)
+engine /r/PartOf computer: 6.456108558126924E-6; (car)
+computer /r/HasA engine: 6.456108558126924E-6; (car)
+computer /r/UsedFor do_math: 6.388181298019612E-6; (calculator)
+computer /r/AtLocation in_garage: 6.348702677825049E-6; (car)
+computer /r/UsedFor drive: 6.264420982772236E-6; (car)
+computer /r/HasProperty make_of_metal: 6.209573394850963E-6; (roboter)
+computer /r/UsedFor add_number: 5.972121704590419E-6; (calculator)
+computer /r/UsedFor help: 5.8543141333299154E-6; (roboter)
+computer /r/HasA four_wheel: 5.798029379151629E-6; (car)
+computer /r/UsedFor calculate_number: 5.472337679526252E-6; (calculator)
+computer /r/AtLocation desk: 5.1983271474178805E-6; (calculator)
+computer /r/HasProperty fast: 5.039043530864649E-6; (car)
+wheel /r/PartOf computer: 4.5706259866465165E-6; (car)
+computer /r/HasA wheel: 4.5706259866465165E-6; (car)
+computer /r/UsedFor do_mathematics: 4.462499344983287E-6; (calculator)
+computer /r/UsedFor write_letter: 4.3009198987645385E-6; (calculator)
+computer /r/AtLocation purse: 4.008414736483363E-6; (calculator)
+computer /r/CapableOf calculate: 3.452660665174256E-6; (calculator)
+computer /r/UsedFor calculate: 3.452660665174256E-6; (calculator)
+computer /r/UsedFor mathematics: 3.452660665174256E-6; (calculator)
+computer /r/UsedFor calculation: 3.452660665174256E-6; (calculator)
+computer /r/UsedFor solve_statistic: 3.452660665174256E-6; (calculator)
+computer /r/UsedFor speed_up_math_computation: 3.452660665174256E-6; (calculator)
+computer /r/AtLocation wristwatch: 3.452660665174256E-6; (calculator)
+computer /r/AtLocation accountant_table: 3.452660665174256E-6; (calculator)
+computer /r/AtLocation in_class: 3.24745349350939E-6; (calculator)
+computer /r/CapableOf add_two_number_together: 2.736168839763126E-6; (calculator)
+computer /r/CapableOf double_number: 2.736168839763126E-6; (calculator)
+computer /r/CapableOf help_in_make_calculation: 2.736168839763126E-6; (calculator)
+computer /r/HasProperty useful_in_chemistry_class: 2.736168839763126E-6; (calculator)
+computer /r/UsedFor create_small_light: 2.736168839763126E-6; (calculator)
+computer /r/UsedFor carry_out_arithmetic: 2.736168839763126E-6; (calculator)
+computer /r/UsedFor do_arithmetic_calculation_accurately: 2.736168839763126E-6; (calculator)
+computer /r/UsedFor do_arithmetic_calculation_quickly: 2.736168839763126E-6; (calculator)
+computer /r/UsedFor make_calculation: 2.736168839763126E-6; (calculator)
+computer /r/HasA button: 2.736168839763126E-6; (calculator)
+computer /r/HasA memory_register: 2.736168839763126E-6; (calculator)
+computer /r/AtLocation pda: 2.736168839763126E-6; (calculator)
+computer /r/AtLocation pocket: 2.736168839763126E-6; (calculator)
+computer /r/AtLocation backpack: 2.736168839763126E-6; (calculator)
+computer /r/AtLocation student_apartment: 2.736168839763126E-6; (calculator)

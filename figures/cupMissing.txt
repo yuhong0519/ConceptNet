@@ -1,0 +1,97 @@
+glass
+plate
+mug
+dish
+vase
+bottle
+drawer
+jug
+flask
+box
+bucket
+refrigerator
+basket
+pail
+pot
+pitcher
+container
+jar
+decanter
+sack
+bin
+a
+vessel
+bag
+craft
+suitcase
+machine
+letter
+balloon
+breakable
+circle
+sport
+rectangular-shaped
+step
+coffin
+player
+
+cup /r/UsedFor drink_tea: 0.0011024131736514181; (mug)
+cup /r/UsedFor coffee: 0.0011024131736514181; (mug)
+cup /r/UsedFor drink_beer: 0.0011024131736514181; (mug)
+cup /r/UsedFor drink_hot_drink_from: 0.0011024131736514181; (mug)
+cup /r/UsedFor keep_liquid: 9.90236383098963E-4; (mug)
+cup /r/UsedFor drink_coffee_from: 6.759415164240621E-4; (mug)
+cup /r/UsedFor pour_your_coffee_into: 6.759415164240621E-4; (mug)
+cup /r/UsedFor drink_hot_beverage: 6.759415164240621E-4; (mug)
+cup /r/UsedFor clean: 6.759415164240621E-4; (mug)
+cup /r/UsedFor drink_hot_liquid_with: 6.759415164240621E-4; (mug)
+cup /r/UsedFor put_coffee_in: 6.759415164240621E-4; (mug)
+cup /r/UsedFor tea: 6.759415164240621E-4; (mug)
+cup /r/UsedFor drink_cold_beverage: 6.759415164240621E-4; (mug)
+cup /r/UsedFor hold_liquid_for_drink: 6.759415164240621E-4; (mug)
+cup /r/UsedFor hot_cocoa: 6.759415164240621E-4; (mug)
+cup /r/UsedFor fill: 6.759415164240621E-4; (mug)
+cup /r/UsedFor hold: 6.759415164240621E-4; (mug)
+cup /r/AtLocation build: 6.759415164240621E-4; (mug)
+cup /r/AtLocation coffeehouse: 6.759415164240621E-4; (mug)
+cup /r/AtLocation cupboard: 3.8877293908608836E-4; (plate)
+cup /r/AtLocation cupboard: 3.8877293908608836E-4; (glass)
+cup /r/AtLocation cupboard: 3.8877293908608836E-4; (mug)
+cup /r/AtLocation cabinet: 3.568105044682111E-4; (plate)
+cup /r/AtLocation cabinet: 3.568105044682111E-4; (glass)
+cup /r/AtLocation cabinet: 3.568105044682111E-4; (mug)
+cup /r/UsedFor eat: 3.508875901809823E-4; (mug)
+cup /r/UsedFor hold_beverage: 3.358852226130134E-4; (mug)
+cup /r/HasA handle: 8.752931603736694E-5; (mug)
+cup /r/UsedFor hold_food: 3.454495329324773E-5; (plate)
+cup /r/UsedFor put_food_on: 3.0363370960335228E-5; (plate)
+cup /r/AtLocation at_dinner: 2.8413587094117307E-5; (plate)
+cup /r/UsedFor eat_from: 2.830031383433094E-5; (plate)
+cup /r/UsedFor put_food_in: 2.3500520402396426E-5; (plate)
+cup /r/AtLocation cafeteria: 2.3500520402396426E-5; (plate)
+cup /r/HasProperty flat: 2.0242247306890156E-5; (plate)
+cup /r/AtLocation on_cabinet: 2.0242247306890156E-5; (plate)
+cup /r/AtLocation on_table: 1.800721687519288E-5; (plate)
+cup /r/AtLocation restaurant: 1.3402415572590068E-5; (plate)
+cup /r/HasProperty clear: 9.884765248381842E-6; (glass)
+cup /r/HasProperty half_full: 9.88476524838184E-6; (glass)
+cup /r/UsedFor correct_vision: 9.36242692597856E-6; (glass)
+cup /r/UsedFor see: 9.070260049060146E-6; (glass)
+cup /r/HasProperty fragile: 8.752655950702586E-6; (glass)
+cup /r/HasProperty transparent: 8.020179648740822E-6; (glass)
+cup /r/HasProperty very_fragile: 8.020179648740822E-6; (glass)
+cup /r/HasProperty half-full: 7.590254957521855E-6; (glass)
+cup /r/UsedFor see_through: 7.590254957521855E-6; (glass)
+cup /r/CapableOf break_easily: 7.102846735424588E-6; (glass)
+cup /r/HasProperty half_full_or_half_empty: 7.102846735424588E-6; (glass)
+cup /r/HasProperty half_empty: 7.102846735424588E-6; (glass)
+cup /r/UsedFor see_good: 7.102846735424588E-6; (glass)
+cup /r/AtLocation window: 7.102846735424588E-6; (glass)
+cup /r/AtLocation milk_in_refrigerator: 7.102846735424588E-6; (glass)
+cup /r/AtLocation milk_in_kitchen: 7.102846735424588E-6; (glass)
+cup /r/CapableOf hold_water: 6.979650125568152E-6; (glass)
+cup /r/UsedFor modify_light: 6.540175063219527E-6; (glass)
+cup /r/HasProperty half_full_of_water: 5.874675171002937E-6; (glass)
+cup /r/HasProperty recyclable: 5.365552842579854E-6; (glass)
+cup /r/HasProperty breakable: 3.6579630307804285E-6; (glass)
+cup /r/HasA water: 2.7867822141978934E-6; (glass)

@@ -1,0 +1,81 @@
+fruit
+vegetable
+banana
+pear
+lime
+berry
+plant
+tomato
+food
+orange
+lemon
+raspberry
+grapefruit
+raisin
+peach
+onoins
+flower
+pineapple
+dessert
+tangerine
+mango
+prune
+watermelon
+plum
+blueberry
+lychee
+kiwi
+melon
+strawberry
+bird
+animal
+citrus
+prickley
+colour
+bi
+color
+yelloow
+broadcaster
+cantaloupe
+sower
+eukaryote
+specie
+
+apple /r/CapableOf grow_on_tree: 0.002961654102078811; (fruit)
+apple /r/HasA vitamin: 0.002857948863678817; (fruit)
+apple /r/HasProperty good_for_health: 0.002319247194305865; (fruit)
+apple /r/HasA lot_of_vitamin: 0.002319247194305865; (fruit)
+apple /r/HasProperty very_tasty: 0.002135521605723392; (fruit)
+apple /r/HasProperty tasteful: 0.002135521605723392; (fruit)
+apple /r/HasProperty very_healthy: 0.002135521605723392; (fruit)
+apple /r/UsedFor make_jelly: 0.002135521605723392; (fruit)
+apple /r/HasProperty nutritious: 0.0014819406004094643; (fruit)
+apple /r/HasProperty nutritious: 0.0014819406004094643; (banana)
+apple /r/HasProperty colorful: 0.0014381233260143719; (fruit)
+apple /r/HasProperty good: 0.00139320653238951; (fruit)
+apple /r/AtLocation tree: 8.362842752153018E-4; (fruit)
+apple /r/HasProperty delicious: 7.938410869889086E-4; (fruit)
+apple /r/HasProperty delicious: 7.938410869889086E-4; (banana)
+apple /r/AtLocation market: 7.157610492185658E-4; (fruit)
+apple /r/AtLocation market: 7.157610492185658E-4; (vegetable)
+apple /r/AtLocation supermarket: 7.821850091482746E-5; (vegetable)
+apple /r/AtLocation store: 6.679231727599573E-5; (banana)
+apple /r/AtLocation vegetable_garden: 5.306374084371846E-5; (vegetable)
+apple /r/AtLocation refrigerator: 5.0610947783233025E-5; (banana)
+apple /r/AtLocation at_grocery_store: 4.229560039976628E-5; (vegetable)
+apple /r/AtLocation at_grocery_store: 4.229560039976628E-5; (banana)
+apple /r/HasProperty peelable: 4.2225855118757735E-5; (banana)
+apple /r/HasProperty one_kind_of_plant: 3.622163966626533E-5; (vegetable)
+apple /r/HasProperty mushy: 3.3466037127733337E-5; (banana)
+apple /r/HasProperty yellow_with_small_brown_spot_when_ripe: 3.3466037127733337E-5; (banana)
+apple /r/HasProperty rich_in_potassium: 3.3466037127733337E-5; (banana)
+apple /r/HasProperty green_or_yellow_in_color: 3.3466037127733337E-5; (banana)
+apple /r/AtLocation atop_refrigerator: 3.3466037127733337E-5; (banana)
+apple /r/AtLocation in_pantry: 3.3466037127733337E-5; (banana)
+apple /r/HasProperty fry: 2.6521206935532514E-5; (banana)
+apple /r/HasProperty source_of_potassium: 2.6521206935532514E-5; (banana)
+apple /r/HasProperty more_perishable_than_apple: 2.6521206935532514E-5; (banana)
+apple /r/HasProperty serve_raw: 2.6521206935532514E-5; (banana)
+apple /r/UsedFor flavor_some_food_but_not_others: 2.6521206935532514E-5; (banana)
+apple /r/AtLocation your_stomach: 2.6521206935532514E-5; (banana)
+apple /r/AtLocation monkey_hand: 2.6521206935532514E-5; (banana)

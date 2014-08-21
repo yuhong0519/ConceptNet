@@ -1,0 +1,134 @@
+rice
+cauliflower
+grapefruit
+spinach
+butter
+kiwi
+steak
+chicken
+raisin
+snack
+meat
+fruit
+cheese
+cookie
+cake
+lettuce
+bread
+lemon
+apple
+grain
+bonbon
+lollypop
+food
+cucumber
+banana
+salad
+pear
+melon
+egg
+hamburger
+carrot
+celery
+skittle
+dish
+sushi
+ham
+cupcake
+soup
+candy
+potato
+plum
+watermelon
+person
+donut
+orange
+sweet
+corn
+cabbage
+pineapple
+bagel
+tomato
+bean
+sucker
+meal
+pizza
+taffy
+vegetable
+pea
+vanilla
+blueberry
+dessert
+lobster
+nerd
+licorice
+turkey
+pastry
+lime
+hen
+whopper
+radish
+bird
+beet
+onion
+roll
+zucchini
+raspberry
+artichoke
+spice
+peach
+oreo
+strawberry
+plant
+tangerine
+toast
+billibi
+miso
+desert
+prey
+onoins
+country
+rooster
+coleslaw
+chicory
+mango
+waffer
+cress
+brie
+crustacean
+cheddar
+lychee
+chewy
+emmental
+gruyere
+traditionally
+caerphilly
+stilton
+biped
+delicacy
+maguro
+seafood
+asparagus
+cheshire
+pont-l'eveque
+savoyard
+diet
+tuber
+eggplant
+burdock
+starch
+animal
+chocolate /r/AtLocation pantry: 3.4157030154607156E-4; (rice)
+chocolate /r/AtLocation refrigerator: 1.864291352043291E-4; (rice)
+chocolate /r/AtLocation at_grocery_store: 1.611339500154308E-4; (rice)
+chocolate /r/UsedFor survival: 7.983643558126135E-6; (rice)
+chocolate /r/HasProperty juicy: 7.2898252489988706E-6; (grapefruit)
+chocolate /r/HasProperty yellow: 6.390023173832936E-6; (grapefruit)
+chocolate /r/HasProperty cook_before_it_be_eat: 6.326887826498247E-6; (rice)
+chocolate /r/AtLocation rice_crisp: 6.326887826498247E-6; (rice)
+chocolate /r/HasProperty peelable: 5.2104801360759715E-6; (grapefruit)
+chocolate /r/CapableOf squirt_you_when_you_eat_them: 5.1800626373491365E-6; (grapefruit)
+chocolate /r/HasProperty round: 4.557232659814079E-6; (grapefruit)
+chocolate /r/CapableOf sometimes_spark_or_explode_when_you_microwave_them: 3.268255644754457E-6; (grapefruit)
+chocolate /r/CapableOf sometime_squirt_you_when_you_eat_them: 3.268255644754457E-6; (grapefruit)
+chocolate /r/HasProperty eat_cook_or_raw: 1.17710385949972E-6; (cauliflower)

@@ -1,0 +1,161 @@
+automobile
+bicycle
+vehicle
+jeep
+ford
+motorcycle
+plane
+semi-truck
+bike
+truck
+bus
+forklift
+yacht
+computer
+spaceship
+tractor
+sleigh
+compressor
+kamera
+company
+unicycle
+cart
+scooter
+artifact
+refrigerator
+helicopter
+van
+boat
+dishwasher
+rocket
+target
+chopper
+toyota
+sailboat
+machine
+corporation
+roboter
+kayak
+pump
+robot
+box
+calculator
+television
+automaton
+shoe
+organisation
+typewriter
+clock
+fan
+bidet
+canoe
+submarine
+sport
+toy
+bulldozer
+aktiengesellschaft
+entertainment
+worker
+imac
+slave
+volvo
+tanker
+oldsmobile
+bmw
+glider
+wheelbarrow
+vehical
+mazda
+compaq
+mac
+watch
+appliance
+ibm
+cyborg
+hourglass
+device
+automation
+startup
+motorola
+hewlett-packard
+lycos
+airbus
+intel
+nokia
+brother
+ericsson
+aaronia
+pelikan
+rhön-klinikum
+ableton
+altana
+berendsohn
+brenntag
+mainova
+manz
+praktiker
+rheinmetall
+victorinox
+omv
+rosenbauer
+ricola
+stäubli
+ineos
+missile
+002
+scout
+
+car /r/CapableOf receive_damage: 0.0015736328256962832; (vehicle)
+car /r/AtLocation corner_of_two_street: 0.0011210786136390182; (vehicle)
+car /r/CapableOf be_many_different_colour: 8.884337810849166E-4; (vehicle)
+car /r/AtLocation junk_yard: 8.884337810849166E-4; (vehicle)
+steer_wheel /r/PartOf car: 8.721169049347027E-4; (automobile)
+transmission /r/PartOf car: 6.786389055042624E-4; (automobile)
+car /r/HasA four_tire: 6.786389055042624E-4; (automobile)
+car /r/AtLocation fast_lane: 6.786389055042624E-4; (automobile)
+body /r/PartOf car: 5.25066711219932E-4; (automobile)
+door /r/PartOf car: 5.25066711219932E-4; (automobile)
+fender /r/PartOf car: 5.25066711219932E-4; (automobile)
+hood /r/PartOf car: 5.25066711219932E-4; (automobile)
+car /r/CapableOf move_forward: 5.25066711219932E-4; (automobile)
+car /r/HasProperty unable_to_fly: 5.25066711219932E-4; (automobile)
+car /r/AtLocation shop: 5.25066711219932E-4; (automobile)
+car /r/AtLocation racetrack: 5.25066711219932E-4; (automobile)
+car /r/AtLocation slow_lane: 5.25066711219932E-4; (automobile)
+car /r/AtLocation exit_ramp: 5.25066711219932E-4; (automobile)
+car /r/AtLocation dealer_lot: 5.25066711219932E-4; (automobile)
+car /r/AtLocation gas_station: 5.25066711219932E-4; (automobile)
+car /r/AtLocation curb: 5.25066711219932E-4; (automobile)
+car /r/AtLocation at_repair_shop: 5.25066711219932E-4; (automobile)
+car /r/AtLocation side_of_road: 5.25066711219932E-4; (automobile)
+car /r/AtLocation park: 4.90311919212913E-4; (bicycle)
+car /r/UsedFor travel: 4.6101740818933214E-4; (automobile)
+car /r/CapableOf travel: 4.6101740818933214E-4; (vehicle)
+car /r/HasA window_and_door: 4.161055236409606E-4; (automobile)
+car /r/AtLocation repair_shop: 4.161055236409606E-4; (automobile)
+car /r/AtLocation garage: 3.373829727664346E-4; (automobile)
+car /r/AtLocation garage: 3.373829727664346E-4; (bicycle)
+car /r/AtLocation garage: 3.373829727664346E-4; (vehicle)
+car /r/CapableOf transport_thing: 2.7014521515403446E-4; (automobile)
+trunk /r/PartOf car: 2.2248449577733168E-4; (automobile)
+seat /r/PartOf car: 2.3087970432048112E-5; (bicycle)
+car /r/HasA two_wheel: 1.9769612013348674E-5; (bicycle)
+car /r/HasProperty fun_to_ride: 1.9697249978953117E-5; (bicycle)
+car /r/HasProperty human_power: 1.879595377730431E-5; (bicycle)
+car /r/HasA two_tire: 1.7788389735376363E-5; (bicycle)
+car /r/HasA chain: 1.7788389735376363E-5; (bicycle)
+car /r/HasA pedal: 1.6646108288519173E-5; (bicycle)
+car /r/UsedFor make_travel_easy: 1.5327440726723936E-5; (bicycle)
+car /r/HasProperty power_by_person: 1.3767786733827662E-5; (bicycle)
+car /r/HasA 2_wheel: 1.3726075392961633E-5; (bicycle)
+car /r/UsedFor ride: 1.350849756580624E-5; (bicycle)
+frame /r/PartOf car: 1.1858926490250908E-5; (bicycle)
+car /r/CapableOf ring_bell: 1.1858926490250908E-5; (bicycle)
+car /r/HasProperty for_ride: 1.1858926490250908E-5; (bicycle)
+car /r/UsedFor travel_on: 1.1858926490250908E-5; (bicycle)
+car /r/UsedFor get_you_to_distant_place: 1.1858926490250908E-5; (bicycle)
+car /r/UsedFor go_far_away: 1.1858926490250908E-5; (bicycle)
+sprocket /r/PartOf car: 1.0219045931428526E-5; (bicycle)
+car /r/UsedFor race: 1.0018391324537361E-5; (bicycle)
+car /r/AtLocation toy_store: 9.443779326714457E-6; (bicycle)
+car /r/HasProperty walk: 7.316819202135966E-6; (bicycle)

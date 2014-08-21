@@ -1,0 +1,30 @@
+biography
+report
+dictionary
+novel
+tale
+entertaning
+poem
+story
+movie
+bible
+
+book /r/UsedFor get_information: 0.0014399154004742511; (dictionary)
+book /r/UsedFor fulcrum: 0.0014399154004742511; (dictionary)
+book /r/CapableOf supply_definition: 0.0011411059564620854; (dictionary)
+book /r/CapableOf help_to_check_spell: 0.0011411059564620854; (dictionary)
+book /r/CapableOf answer_question_about_word: 0.0011411059564620854; (dictionary)
+book /r/CapableOf help_to_understand_word: 0.0011411059564620854; (dictionary)
+book /r/UsedFor determine_word_definition: 0.0011411059564620854; (dictionary)
+book /r/UsedFor explain_mean_of_word: 0.0011411059564620854; (dictionary)
+book /r/UsedFor find_interest_and_unusual_word: 0.0011411059564620854; (dictionary)
+book /r/UsedFor find_mean_of_word: 0.0011411059564620854; (dictionary)
+book /r/UsedFor word_definition: 0.0011411059564620854; (dictionary)
+book /r/UsedFor look_up_word: 0.0011411059564620854; (dictionary)
+book /r/UsedFor increase_your_vocabulary: 0.0011411059564620854; (dictionary)
+book /r/UsedFor find_definition_of_word: 0.0011411059564620854; (dictionary)
+book /r/AtLocation build: 0.0011411059564620854; (dictionary)
+book /r/AtLocation cabinet: 0.0011411059564620854; (dictionary)
+book /r/AtLocation house: 0.0011411059564620854; (dictionary)
+word /r/PartOf book: 6.462106959931937E-4; (dictionary)
+book /r/AtLocation conference: 2.1296786222633727E-5; (report)
